@@ -1,0 +1,17 @@
+.parent{
+    display: block;
+    height: auto;
+    width: auto;
+    align-items: center;
+}
+.box{
+    background-color:brown;
+    color: beige;
+    border: 10px solid indigo;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}

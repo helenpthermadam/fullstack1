@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    background-color: white;
+    text-align: center;
+  }
+  
+  button{
+    background-color:dimgrey;
+    text-align: center;
+ }
+ button:hover{
+    background-color: chocolate;
+    color: darksalmon;
+ }

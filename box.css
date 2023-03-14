@@ -1,0 +1,30 @@
+.parent{
+    box-string: border-box;
+    display: inline-flex;
+}
+
+.box1{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border: 10px solid burlywood;
+    margin: 10px;
+   
+}
+.box2{
+    background-color: cornsilk;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border: 10px solid rgb(110, 75, 29);
+    margin: 10px;
+}
+.box3{
+    background-color:darkgrey;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border: 10px solid cornflowerblue;
+    margin: 10px;
+}
